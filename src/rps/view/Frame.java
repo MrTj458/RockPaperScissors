@@ -24,6 +24,7 @@ public class Frame extends JFrame
 		this.setResizable(false);
 		this.setSize(400, 400);
 		this.setTitle("Rock Paper Scissors!");
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setVisible(true);
 	}
 }
