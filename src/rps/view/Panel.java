@@ -8,6 +8,11 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * Class that contains all of the code for the panel.
+ * @author thod0127
+ * @version 2.0 Now with Multiplayer!
+ */
 public class Panel extends JPanel
 {
 	private Controller baseController;
