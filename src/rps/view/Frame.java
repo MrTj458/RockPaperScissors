@@ -5,6 +5,11 @@ import rps.controller.Controller;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+/**
+ * Sets up the frame for the program.
+ * @author thod0127
+ * @version 1.0
+ */
 public class Frame extends JFrame
 {
 	private Controller baseController;
